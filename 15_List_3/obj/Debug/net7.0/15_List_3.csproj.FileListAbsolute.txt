@@ -1,0 +1,28 @@
+D:\AltanEmre\16-19\CSharp\15_List_3\bin\Debug\net7.0\15_List_3.exe
+D:\AltanEmre\16-19\CSharp\15_List_3\bin\Debug\net7.0\15_List_3.deps.json
+D:\AltanEmre\16-19\CSharp\15_List_3\bin\Debug\net7.0\15_List_3.runtimeconfig.json
+D:\AltanEmre\16-19\CSharp\15_List_3\bin\Debug\net7.0\15_List_3.dll
+D:\AltanEmre\16-19\CSharp\15_List_3\bin\Debug\net7.0\15_List_3.pdb
+D:\AltanEmre\16-19\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\AltanEmre\16-19\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.AssemblyInfoInputs.cache
+D:\AltanEmre\16-19\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.AssemblyInfo.cs
+D:\AltanEmre\16-19\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.dll
+D:\AltanEmre\16-19\CSharp\15_List_3\obj\Debug\net7.0\refint\15_List_3.dll
+D:\AltanEmre\16-19\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.pdb
+D:\AltanEmre\16-19\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.genruntimeconfig.cache
+D:\AltanEmre\16-19\CSharp\15_List_3\obj\Debug\net7.0\ref\15_List_3.dll
+D:\Altan Emre\CSharp\15_List_3\bin\Debug\net7.0\15_List_3.exe
+D:\Altan Emre\CSharp\15_List_3\bin\Debug\net7.0\15_List_3.deps.json
+D:\Altan Emre\CSharp\15_List_3\bin\Debug\net7.0\15_List_3.runtimeconfig.json
+D:\Altan Emre\CSharp\15_List_3\bin\Debug\net7.0\15_List_3.dll
+D:\Altan Emre\CSharp\15_List_3\bin\Debug\net7.0\15_List_3.pdb
+D:\Altan Emre\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Altan Emre\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.AssemblyInfoInputs.cache
+D:\Altan Emre\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.AssemblyInfo.cs
+D:\Altan Emre\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.csproj.CoreCompileInputs.cache
+D:\Altan Emre\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.dll
+D:\Altan Emre\CSharp\15_List_3\obj\Debug\net7.0\refint\15_List_3.dll
+D:\Altan Emre\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.pdb
+D:\Altan Emre\CSharp\15_List_3\obj\Debug\net7.0\15_List_3.genruntimeconfig.cache
+D:\Altan Emre\CSharp\15_List_3\obj\Debug\net7.0\ref\15_List_3.dll

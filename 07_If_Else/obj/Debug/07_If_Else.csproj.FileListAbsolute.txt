@@ -1,0 +1,7 @@
+D:\AltanEmre\16-19\CSharp\07_If_Else\bin\Debug\07_If_Else.exe.config
+D:\AltanEmre\16-19\CSharp\07_If_Else\bin\Debug\07_If_Else.exe
+D:\AltanEmre\16-19\CSharp\07_If_Else\bin\Debug\07_If_Else.pdb
+D:\AltanEmre\16-19\CSharp\07_If_Else\obj\Debug\07_If_Else.csproj.AssemblyReference.cache
+D:\AltanEmre\16-19\CSharp\07_If_Else\obj\Debug\07_If_Else.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\07_If_Else\obj\Debug\07_If_Else.exe
+D:\AltanEmre\16-19\CSharp\07_If_Else\obj\Debug\07_If_Else.pdb

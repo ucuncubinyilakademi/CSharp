@@ -1,0 +1,7 @@
+D:\AltanEmre\16-19\CSharp\01_Algoritma\bin\Debug\01_Algoritma.exe.config
+D:\AltanEmre\16-19\CSharp\01_Algoritma\bin\Debug\01_Algoritma.exe
+D:\AltanEmre\16-19\CSharp\01_Algoritma\bin\Debug\01_Algoritma.pdb
+D:\AltanEmre\16-19\CSharp\01_Algoritma\obj\Debug\01_Algoritma.csproj.AssemblyReference.cache
+D:\AltanEmre\16-19\CSharp\01_Algoritma\obj\Debug\01_Algoritma.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\01_Algoritma\obj\Debug\01_Algoritma.exe
+D:\AltanEmre\16-19\CSharp\01_Algoritma\obj\Debug\01_Algoritma.pdb

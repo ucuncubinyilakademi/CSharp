@@ -1,0 +1,14 @@
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\bin\Debug\net7.0\15_List_2_Otomat.exe
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\bin\Debug\net7.0\15_List_2_Otomat.deps.json
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\bin\Debug\net7.0\15_List_2_Otomat.runtimeconfig.json
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\bin\Debug\net7.0\15_List_2_Otomat.dll
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\bin\Debug\net7.0\15_List_2_Otomat.pdb
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\obj\Debug\net7.0\15_List_2_Otomat.GeneratedMSBuildEditorConfig.editorconfig
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\obj\Debug\net7.0\15_List_2_Otomat.AssemblyInfoInputs.cache
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\obj\Debug\net7.0\15_List_2_Otomat.AssemblyInfo.cs
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\obj\Debug\net7.0\15_List_2_Otomat.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\obj\Debug\net7.0\15_List_2_Otomat.dll
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\obj\Debug\net7.0\refint\15_List_2_Otomat.dll
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\obj\Debug\net7.0\15_List_2_Otomat.pdb
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\obj\Debug\net7.0\15_List_2_Otomat.genruntimeconfig.cache
+D:\AltanEmre\16-19\CSharp\15_List_2_Otomat\obj\Debug\net7.0\ref\15_List_2_Otomat.dll

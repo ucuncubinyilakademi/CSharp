@@ -1,0 +1,7 @@
+D:\AltanEmre\16-19\CSharp\08_SwitchCase\bin\Debug\08_SwitchCase.exe.config
+D:\AltanEmre\16-19\CSharp\08_SwitchCase\bin\Debug\08_SwitchCase.exe
+D:\AltanEmre\16-19\CSharp\08_SwitchCase\bin\Debug\08_SwitchCase.pdb
+D:\AltanEmre\16-19\CSharp\08_SwitchCase\obj\Debug\08_SwitchCase.csproj.AssemblyReference.cache
+D:\AltanEmre\16-19\CSharp\08_SwitchCase\obj\Debug\08_SwitchCase.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\08_SwitchCase\obj\Debug\08_SwitchCase.exe
+D:\AltanEmre\16-19\CSharp\08_SwitchCase\obj\Debug\08_SwitchCase.pdb

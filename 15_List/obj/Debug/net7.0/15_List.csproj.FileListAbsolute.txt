@@ -1,0 +1,14 @@
+D:\AltanEmre\16-19\CSharp\15_List\bin\Debug\net7.0\15_List.exe
+D:\AltanEmre\16-19\CSharp\15_List\bin\Debug\net7.0\15_List.deps.json
+D:\AltanEmre\16-19\CSharp\15_List\bin\Debug\net7.0\15_List.runtimeconfig.json
+D:\AltanEmre\16-19\CSharp\15_List\bin\Debug\net7.0\15_List.dll
+D:\AltanEmre\16-19\CSharp\15_List\bin\Debug\net7.0\15_List.pdb
+D:\AltanEmre\16-19\CSharp\15_List\obj\Debug\net7.0\15_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\AltanEmre\16-19\CSharp\15_List\obj\Debug\net7.0\15_List.AssemblyInfoInputs.cache
+D:\AltanEmre\16-19\CSharp\15_List\obj\Debug\net7.0\15_List.AssemblyInfo.cs
+D:\AltanEmre\16-19\CSharp\15_List\obj\Debug\net7.0\15_List.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\15_List\obj\Debug\net7.0\15_List.dll
+D:\AltanEmre\16-19\CSharp\15_List\obj\Debug\net7.0\refint\15_List.dll
+D:\AltanEmre\16-19\CSharp\15_List\obj\Debug\net7.0\15_List.pdb
+D:\AltanEmre\16-19\CSharp\15_List\obj\Debug\net7.0\15_List.genruntimeconfig.cache
+D:\AltanEmre\16-19\CSharp\15_List\obj\Debug\net7.0\ref\15_List.dll

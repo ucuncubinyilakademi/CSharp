@@ -1,0 +1,14 @@
+D:\AltanEmre\16-19\CSharp\14_Arraylist\bin\Debug\net7.0\14_Arraylist.exe
+D:\AltanEmre\16-19\CSharp\14_Arraylist\bin\Debug\net7.0\14_Arraylist.deps.json
+D:\AltanEmre\16-19\CSharp\14_Arraylist\bin\Debug\net7.0\14_Arraylist.runtimeconfig.json
+D:\AltanEmre\16-19\CSharp\14_Arraylist\bin\Debug\net7.0\14_Arraylist.dll
+D:\AltanEmre\16-19\CSharp\14_Arraylist\bin\Debug\net7.0\14_Arraylist.pdb
+D:\AltanEmre\16-19\CSharp\14_Arraylist\obj\Debug\net7.0\14_Arraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\AltanEmre\16-19\CSharp\14_Arraylist\obj\Debug\net7.0\14_Arraylist.AssemblyInfoInputs.cache
+D:\AltanEmre\16-19\CSharp\14_Arraylist\obj\Debug\net7.0\14_Arraylist.AssemblyInfo.cs
+D:\AltanEmre\16-19\CSharp\14_Arraylist\obj\Debug\net7.0\14_Arraylist.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\14_Arraylist\obj\Debug\net7.0\14_Arraylist.dll
+D:\AltanEmre\16-19\CSharp\14_Arraylist\obj\Debug\net7.0\refint\14_Arraylist.dll
+D:\AltanEmre\16-19\CSharp\14_Arraylist\obj\Debug\net7.0\14_Arraylist.pdb
+D:\AltanEmre\16-19\CSharp\14_Arraylist\obj\Debug\net7.0\14_Arraylist.genruntimeconfig.cache
+D:\AltanEmre\16-19\CSharp\14_Arraylist\obj\Debug\net7.0\ref\14_Arraylist.dll

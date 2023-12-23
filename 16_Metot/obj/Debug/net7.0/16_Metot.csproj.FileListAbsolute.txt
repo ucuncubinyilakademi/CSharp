@@ -1,0 +1,14 @@
+D:\AltanEmre\16-19\CSharp\16_Metot\bin\Debug\net7.0\16_Metot.exe
+D:\AltanEmre\16-19\CSharp\16_Metot\bin\Debug\net7.0\16_Metot.deps.json
+D:\AltanEmre\16-19\CSharp\16_Metot\bin\Debug\net7.0\16_Metot.runtimeconfig.json
+D:\AltanEmre\16-19\CSharp\16_Metot\bin\Debug\net7.0\16_Metot.dll
+D:\AltanEmre\16-19\CSharp\16_Metot\bin\Debug\net7.0\16_Metot.pdb
+D:\AltanEmre\16-19\CSharp\16_Metot\obj\Debug\net7.0\16_Metot.GeneratedMSBuildEditorConfig.editorconfig
+D:\AltanEmre\16-19\CSharp\16_Metot\obj\Debug\net7.0\16_Metot.AssemblyInfoInputs.cache
+D:\AltanEmre\16-19\CSharp\16_Metot\obj\Debug\net7.0\16_Metot.AssemblyInfo.cs
+D:\AltanEmre\16-19\CSharp\16_Metot\obj\Debug\net7.0\16_Metot.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\16_Metot\obj\Debug\net7.0\16_Metot.dll
+D:\AltanEmre\16-19\CSharp\16_Metot\obj\Debug\net7.0\refint\16_Metot.dll
+D:\AltanEmre\16-19\CSharp\16_Metot\obj\Debug\net7.0\16_Metot.pdb
+D:\AltanEmre\16-19\CSharp\16_Metot\obj\Debug\net7.0\16_Metot.genruntimeconfig.cache
+D:\AltanEmre\16-19\CSharp\16_Metot\obj\Debug\net7.0\ref\16_Metot.dll

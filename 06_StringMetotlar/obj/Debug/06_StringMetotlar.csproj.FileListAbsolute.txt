@@ -1,0 +1,7 @@
+D:\AltanEmre\16-19\CSharp\06_StringMetotlar\bin\Debug\06_StringMetotlar.exe.config
+D:\AltanEmre\16-19\CSharp\06_StringMetotlar\bin\Debug\06_StringMetotlar.exe
+D:\AltanEmre\16-19\CSharp\06_StringMetotlar\bin\Debug\06_StringMetotlar.pdb
+D:\AltanEmre\16-19\CSharp\06_StringMetotlar\obj\Debug\06_StringMetotlar.csproj.AssemblyReference.cache
+D:\AltanEmre\16-19\CSharp\06_StringMetotlar\obj\Debug\06_StringMetotlar.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\06_StringMetotlar\obj\Debug\06_StringMetotlar.exe
+D:\AltanEmre\16-19\CSharp\06_StringMetotlar\obj\Debug\06_StringMetotlar.pdb

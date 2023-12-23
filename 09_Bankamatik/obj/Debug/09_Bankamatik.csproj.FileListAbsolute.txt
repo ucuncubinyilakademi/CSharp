@@ -1,0 +1,7 @@
+D:\AltanEmre\16-19\CSharp\09_Bankamatik\bin\Debug\09_Bankamatik.exe.config
+D:\AltanEmre\16-19\CSharp\09_Bankamatik\bin\Debug\09_Bankamatik.exe
+D:\AltanEmre\16-19\CSharp\09_Bankamatik\bin\Debug\09_Bankamatik.pdb
+D:\AltanEmre\16-19\CSharp\09_Bankamatik\obj\Debug\09_Bankamatik.csproj.AssemblyReference.cache
+D:\AltanEmre\16-19\CSharp\09_Bankamatik\obj\Debug\09_Bankamatik.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\09_Bankamatik\obj\Debug\09_Bankamatik.exe
+D:\AltanEmre\16-19\CSharp\09_Bankamatik\obj\Debug\09_Bankamatik.pdb

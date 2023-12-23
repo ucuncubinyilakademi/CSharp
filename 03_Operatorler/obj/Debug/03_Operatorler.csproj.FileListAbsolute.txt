@@ -1,0 +1,7 @@
+D:\AltanEmre\16-19\CSharp\03_Operatorler\bin\Debug\03_Operatorler.exe.config
+D:\AltanEmre\16-19\CSharp\03_Operatorler\bin\Debug\03_Operatorler.exe
+D:\AltanEmre\16-19\CSharp\03_Operatorler\bin\Debug\03_Operatorler.pdb
+D:\AltanEmre\16-19\CSharp\03_Operatorler\obj\Debug\03_Operatorler.csproj.AssemblyReference.cache
+D:\AltanEmre\16-19\CSharp\03_Operatorler\obj\Debug\03_Operatorler.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\03_Operatorler\obj\Debug\03_Operatorler.exe
+D:\AltanEmre\16-19\CSharp\03_Operatorler\obj\Debug\03_Operatorler.pdb

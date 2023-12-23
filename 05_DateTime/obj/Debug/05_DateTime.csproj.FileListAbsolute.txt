@@ -1,0 +1,7 @@
+D:\AltanEmre\16-19\CSharp\05_DateTime\bin\Debug\05_DateTime.exe.config
+D:\AltanEmre\16-19\CSharp\05_DateTime\bin\Debug\05_DateTime.exe
+D:\AltanEmre\16-19\CSharp\05_DateTime\bin\Debug\05_DateTime.pdb
+D:\AltanEmre\16-19\CSharp\05_DateTime\obj\Debug\05_DateTime.csproj.AssemblyReference.cache
+D:\AltanEmre\16-19\CSharp\05_DateTime\obj\Debug\05_DateTime.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\05_DateTime\obj\Debug\05_DateTime.exe
+D:\AltanEmre\16-19\CSharp\05_DateTime\obj\Debug\05_DateTime.pdb

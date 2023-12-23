@@ -1,0 +1,14 @@
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\bin\Debug\net7.0\13_Otomat_Makinesi.exe
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\bin\Debug\net7.0\13_Otomat_Makinesi.deps.json
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\bin\Debug\net7.0\13_Otomat_Makinesi.runtimeconfig.json
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\bin\Debug\net7.0\13_Otomat_Makinesi.dll
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\bin\Debug\net7.0\13_Otomat_Makinesi.pdb
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\obj\Debug\net7.0\13_Otomat_Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\obj\Debug\net7.0\13_Otomat_Makinesi.AssemblyInfoInputs.cache
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\obj\Debug\net7.0\13_Otomat_Makinesi.AssemblyInfo.cs
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\obj\Debug\net7.0\13_Otomat_Makinesi.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\obj\Debug\net7.0\13_Otomat_Makinesi.dll
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\obj\Debug\net7.0\refint\13_Otomat_Makinesi.dll
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\obj\Debug\net7.0\13_Otomat_Makinesi.pdb
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\obj\Debug\net7.0\13_Otomat_Makinesi.genruntimeconfig.cache
+D:\AltanEmre\16-19\CSharp\13_Otomat_Makinesi\obj\Debug\net7.0\ref\13_Otomat_Makinesi.dll

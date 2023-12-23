@@ -1,0 +1,7 @@
+D:\AltanEmre\16-19\CSharp\02_Degisken_VeriTipi\bin\Debug\02_Degisken_VeriTipi.exe.config
+D:\AltanEmre\16-19\CSharp\02_Degisken_VeriTipi\bin\Debug\02_Degisken_VeriTipi.exe
+D:\AltanEmre\16-19\CSharp\02_Degisken_VeriTipi\bin\Debug\02_Degisken_VeriTipi.pdb
+D:\AltanEmre\16-19\CSharp\02_Degisken_VeriTipi\obj\Debug\02_Degisken_VeriTipi.csproj.AssemblyReference.cache
+D:\AltanEmre\16-19\CSharp\02_Degisken_VeriTipi\obj\Debug\02_Degisken_VeriTipi.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\02_Degisken_VeriTipi\obj\Debug\02_Degisken_VeriTipi.exe
+D:\AltanEmre\16-19\CSharp\02_Degisken_VeriTipi\obj\Debug\02_Degisken_VeriTipi.pdb

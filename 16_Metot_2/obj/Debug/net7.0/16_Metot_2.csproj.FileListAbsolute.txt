@@ -1,0 +1,14 @@
+D:\AltanEmre\16-19\CSharp\16_Metot_2\bin\Debug\net7.0\16_Metot_2.exe
+D:\AltanEmre\16-19\CSharp\16_Metot_2\bin\Debug\net7.0\16_Metot_2.deps.json
+D:\AltanEmre\16-19\CSharp\16_Metot_2\bin\Debug\net7.0\16_Metot_2.runtimeconfig.json
+D:\AltanEmre\16-19\CSharp\16_Metot_2\bin\Debug\net7.0\16_Metot_2.dll
+D:\AltanEmre\16-19\CSharp\16_Metot_2\bin\Debug\net7.0\16_Metot_2.pdb
+D:\AltanEmre\16-19\CSharp\16_Metot_2\obj\Debug\net7.0\16_Metot_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\AltanEmre\16-19\CSharp\16_Metot_2\obj\Debug\net7.0\16_Metot_2.AssemblyInfoInputs.cache
+D:\AltanEmre\16-19\CSharp\16_Metot_2\obj\Debug\net7.0\16_Metot_2.AssemblyInfo.cs
+D:\AltanEmre\16-19\CSharp\16_Metot_2\obj\Debug\net7.0\16_Metot_2.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\16_Metot_2\obj\Debug\net7.0\16_Metot_2.dll
+D:\AltanEmre\16-19\CSharp\16_Metot_2\obj\Debug\net7.0\refint\16_Metot_2.dll
+D:\AltanEmre\16-19\CSharp\16_Metot_2\obj\Debug\net7.0\16_Metot_2.pdb
+D:\AltanEmre\16-19\CSharp\16_Metot_2\obj\Debug\net7.0\16_Metot_2.genruntimeconfig.cache
+D:\AltanEmre\16-19\CSharp\16_Metot_2\obj\Debug\net7.0\ref\16_Metot_2.dll

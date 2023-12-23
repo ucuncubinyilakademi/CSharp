@@ -1,0 +1,14 @@
+D:\AltanEmre\16-19\CSharp\12_Array\bin\Debug\net7.0\12_Array.exe
+D:\AltanEmre\16-19\CSharp\12_Array\bin\Debug\net7.0\12_Array.deps.json
+D:\AltanEmre\16-19\CSharp\12_Array\bin\Debug\net7.0\12_Array.runtimeconfig.json
+D:\AltanEmre\16-19\CSharp\12_Array\bin\Debug\net7.0\12_Array.dll
+D:\AltanEmre\16-19\CSharp\12_Array\bin\Debug\net7.0\12_Array.pdb
+D:\AltanEmre\16-19\CSharp\12_Array\obj\Debug\net7.0\12_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\AltanEmre\16-19\CSharp\12_Array\obj\Debug\net7.0\12_Array.AssemblyInfoInputs.cache
+D:\AltanEmre\16-19\CSharp\12_Array\obj\Debug\net7.0\12_Array.AssemblyInfo.cs
+D:\AltanEmre\16-19\CSharp\12_Array\obj\Debug\net7.0\12_Array.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\12_Array\obj\Debug\net7.0\12_Array.dll
+D:\AltanEmre\16-19\CSharp\12_Array\obj\Debug\net7.0\refint\12_Array.dll
+D:\AltanEmre\16-19\CSharp\12_Array\obj\Debug\net7.0\12_Array.pdb
+D:\AltanEmre\16-19\CSharp\12_Array\obj\Debug\net7.0\12_Array.genruntimeconfig.cache
+D:\AltanEmre\16-19\CSharp\12_Array\obj\Debug\net7.0\ref\12_Array.dll

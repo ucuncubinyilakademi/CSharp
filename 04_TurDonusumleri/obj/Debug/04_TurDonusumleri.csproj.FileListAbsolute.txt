@@ -1,0 +1,7 @@
+D:\AltanEmre\16-19\CSharp\04_TurDonusumleri\bin\Debug\04_TurDonusumleri.exe.config
+D:\AltanEmre\16-19\CSharp\04_TurDonusumleri\bin\Debug\04_TurDonusumleri.exe
+D:\AltanEmre\16-19\CSharp\04_TurDonusumleri\bin\Debug\04_TurDonusumleri.pdb
+D:\AltanEmre\16-19\CSharp\04_TurDonusumleri\obj\Debug\04_TurDonusumleri.csproj.AssemblyReference.cache
+D:\AltanEmre\16-19\CSharp\04_TurDonusumleri\obj\Debug\04_TurDonusumleri.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\04_TurDonusumleri\obj\Debug\04_TurDonusumleri.exe
+D:\AltanEmre\16-19\CSharp\04_TurDonusumleri\obj\Debug\04_TurDonusumleri.pdb

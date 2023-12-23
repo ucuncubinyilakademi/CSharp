@@ -1,0 +1,14 @@
+D:\AltanEmre\16-19\CSharp\10_Loops\bin\Debug\net7.0\10_Loops.exe
+D:\AltanEmre\16-19\CSharp\10_Loops\bin\Debug\net7.0\10_Loops.deps.json
+D:\AltanEmre\16-19\CSharp\10_Loops\bin\Debug\net7.0\10_Loops.runtimeconfig.json
+D:\AltanEmre\16-19\CSharp\10_Loops\bin\Debug\net7.0\10_Loops.dll
+D:\AltanEmre\16-19\CSharp\10_Loops\bin\Debug\net7.0\10_Loops.pdb
+D:\AltanEmre\16-19\CSharp\10_Loops\obj\Debug\net7.0\10_Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\AltanEmre\16-19\CSharp\10_Loops\obj\Debug\net7.0\10_Loops.AssemblyInfoInputs.cache
+D:\AltanEmre\16-19\CSharp\10_Loops\obj\Debug\net7.0\10_Loops.AssemblyInfo.cs
+D:\AltanEmre\16-19\CSharp\10_Loops\obj\Debug\net7.0\10_Loops.csproj.CoreCompileInputs.cache
+D:\AltanEmre\16-19\CSharp\10_Loops\obj\Debug\net7.0\10_Loops.dll
+D:\AltanEmre\16-19\CSharp\10_Loops\obj\Debug\net7.0\refint\10_Loops.dll
+D:\AltanEmre\16-19\CSharp\10_Loops\obj\Debug\net7.0\10_Loops.pdb
+D:\AltanEmre\16-19\CSharp\10_Loops\obj\Debug\net7.0\10_Loops.genruntimeconfig.cache
+D:\AltanEmre\16-19\CSharp\10_Loops\obj\Debug\net7.0\ref\10_Loops.dll
