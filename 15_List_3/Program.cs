@@ -140,6 +140,9 @@
             }
 
             Console.WriteLine("MANAV");
+            Console.WriteLine("MANAV");
+            Console.WriteLine("MANAV");
+            Console.WriteLine("MANAV");
 
         }
     }
