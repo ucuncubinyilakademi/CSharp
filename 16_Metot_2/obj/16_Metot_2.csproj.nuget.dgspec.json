@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Altan Emre\\CSharp\\16_Metot_2\\16_Metot_2.csproj": {}
+    "D:\\Altan Emre\\CSharp-main\\16_Metot_2\\16_Metot_2.csproj": {}
   },
   "projects": {
-    "D:\\Altan Emre\\CSharp\\16_Metot_2\\16_Metot_2.csproj": {
+    "D:\\Altan Emre\\CSharp-main\\16_Metot_2\\16_Metot_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Altan Emre\\CSharp\\16_Metot_2\\16_Metot_2.csproj",
+        "projectUniqueName": "D:\\Altan Emre\\CSharp-main\\16_Metot_2\\16_Metot_2.csproj",
         "projectName": "16_Metot_2",
-        "projectPath": "D:\\Altan Emre\\CSharp\\16_Metot_2\\16_Metot_2.csproj",
+        "projectPath": "D:\\Altan Emre\\CSharp-main\\16_Metot_2\\16_Metot_2.csproj",
         "packagesPath": "C:\\Users\\101-Hoca-Pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Altan Emre\\CSharp\\16_Metot_2\\obj\\",
+        "outputPath": "D:\\Altan Emre\\CSharp-main\\16_Metot_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

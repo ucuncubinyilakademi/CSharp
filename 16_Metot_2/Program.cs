@@ -44,15 +44,15 @@
         /// <param name="a"></param>
         /// <param name="b"></param>
         /// <returns>Toplama sonucu</returns>
-        static void Toplam()
-        {
-            Console.WriteLine("1.Sayı:");
-            int sayi1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("2.Sayı:");
-            int sayi2 = Convert.ToInt32(Console.ReadLine());
+        //static void Toplam()
+        //{
+        //    Console.WriteLine("1.Sayı:");
+        //    int sayi1 = Convert.ToInt32(Console.ReadLine());
+        //    Console.WriteLine("2.Sayı:");
+        //    int sayi2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Toplam:" + (sayi1 + sayi2));
-        }
+        //    Console.WriteLine("Toplam:" + (sayi1 + sayi2));
+        //}
 
         //static void Toplam(int s1, int s2)
         //{
@@ -73,5 +73,9 @@
         //{
         //    Console.WriteLine("Toplam:" + (s1 + s2 + s3));
         //}
+
+
+        //kullanıcıdan alınacak 2 ürün fiyatından pahalı olana %30 indirim uygulayan metot 
+        //ve 3.ürün almak isterse 3.ürüne %50 indirim uygulayarak metot ile kodlayınız
     }
 }
